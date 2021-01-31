@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "\"(\xc3\x94o)'"
+echo -e "\"(\xc3\x94o)'"
  
 
