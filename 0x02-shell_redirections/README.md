@@ -1,0 +1,1 @@
+**This contains solutions to all the tasks on holberton-alx shell I/O redirections**
