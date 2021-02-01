@@ -1,0 +1,1 @@
+**This directory contains solutions to all the tasks encountered in the holberton through alx shell init files, variables and expansions tasks**
